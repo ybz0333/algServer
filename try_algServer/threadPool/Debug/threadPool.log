@@ -1,0 +1,22 @@
+﻿Build started 2016/4/28 22:58:19.
+     1>Project "E:\code_experiment\Cpp_code_experiment\qt_code1.1\try_tcpserver\threadPool\threadPool.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\threadPool.unsuccessfulbuild".
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp threadpool.cpp
+         threadpool.cpp
+         main.cpp
+         Generating Code...
+       Lib:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"E:\code_experiment\Cpp_code_experiment\qt_code1.1\try_tcpserver\Debug\threadPool.lib" /NOLOGO Debug\condition.obj
+         Debug\main.obj
+         Debug\threadpool.obj
+         threadPool.vcxproj -> E:\code_experiment\Cpp_code_experiment\qt_code1.1\try_tcpserver\Debug\threadPool.lib
+       FinalizeBuildStatus:
+         Deleting file "Debug\threadPool.unsuccessfulbuild".
+         Touching "Debug\threadPool.lastbuildstate".
+     1>Done Building Project "E:\code_experiment\Cpp_code_experiment\qt_code1.1\try_tcpserver\threadPool\threadPool.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.40

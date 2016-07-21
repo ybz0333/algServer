@@ -1,0 +1,33 @@
+﻿Build started 2016/4/30 12:49:28.
+     1>Project "E:\code_experiment\Cpp_code_experiment\qt_code1.1\test_socket_1.1\try_conn_to_qt\try_conn_to_qt.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\try_conn_to_qt.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "Debug\try_conn_to_qt.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt CFace.cpp common.cpp Config.cpp main.cpp TCPClient.cpp wcdThreadSync.cpp
+         wcdThreadSync.cpp
+     1>e:\code_experiment\cpp_code_experiment\qt_code1.1\test_socket_1.1\try_conn_to_qt\wcdthreadsync.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+         TCPClient.cpp
+     1>e:\code_experiment\cpp_code_experiment\qt_code1.1\test_socket_1.1\try_conn_to_qt\wcdthreadsync.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+         main.cpp
+         Config.cpp
+         common.cpp
+         CFace.cpp
+         Generating Code...
+       Lib:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"E:\code_experiment\Cpp_code_experiment\qt_code1.1\test_socket_1.1\Debug\try_conn_to_qt.lib" /NOLOGO Debug\CFace.obj
+         Debug\common.obj
+         Debug\Config.obj
+         Debug\main.obj
+         Debug\TCPClient.obj
+         Debug\wcdThreadSync.obj
+         try_conn_to_qt.vcxproj -> E:\code_experiment\Cpp_code_experiment\qt_code1.1\test_socket_1.1\Debug\try_conn_to_qt.lib
+       FinalizeBuildStatus:
+         Deleting file "Debug\try_conn_to_qt.unsuccessfulbuild".
+         Touching "Debug\try_conn_to_qt.lastbuildstate".
+     1>Done Building Project "E:\code_experiment\Cpp_code_experiment\qt_code1.1\test_socket_1.1\try_conn_to_qt\try_conn_to_qt.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:26.33

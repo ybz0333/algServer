@@ -1,0 +1,17 @@
+﻿Build started 2016/4/30 15:34:33.
+     1>Project "E:\code_experiment\Cpp_code_experiment\qt_code1.1\test_socket_1.1\CFaceDetect\CFaceDetect.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\CFaceDetect.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Lib:
+         All outputs are up-to-date.
+         CFaceDetect.vcxproj -> E:\code_experiment\Cpp_code_experiment\qt_code1.1\test_socket_1.1\Debug\CFaceDetect.lib
+       FinalizeBuildStatus:
+         Deleting file "Debug\CFaceDetect.unsuccessfulbuild".
+         Touching "Debug\CFaceDetect.lastbuildstate".
+     1>Done Building Project "E:\code_experiment\Cpp_code_experiment\qt_code1.1\test_socket_1.1\CFaceDetect\CFaceDetect.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.19

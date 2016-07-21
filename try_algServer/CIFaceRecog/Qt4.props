@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<PropertyGroup>
+    <ExecutablePath>$(ExecutablePath)</ExecutablePath>
+    <IncludePath>D:\Software\Qt\4.8.6\include;D:\Software\Qt\4.8.6\include\Qt;D:\Software\Qt\4.8.6\include\QtCore;D:\Software\Qt\4.8.6\include\QtGui;D:\Software\Qt\4.8.6\include\QtNetwork;$(IncludePath)</IncludePath>
+    <ReferencePath>$(ReferencePath)</ReferencePath>
+    <LibraryPath>D:\Software\Qt\4.8.6\lib;$(LibraryPath)</LibraryPath> 
+    <SourcePath>$(SourcePath)</SourcePath>
+    <ExcludePath>$(ExcludePath)</ExcludePath>
+</PropertyGroup>
+  <ItemDefinitionGroup>
+        <Link Condition="'$(Configuration)'=='Debug'">
+          <AdditionalDependencies>qtmaind.lib;QtCored4.lib;QtGuid4.lib;QtDesignerComponentsd4.lib;QtDesignerd4.lib;QtUiToolsd.lib;QtHelpd4.lib;QtCLucened4.lib;QtScriptToolsd4.lib;QtWebKitd4.lib;QtDeclaratived4.lib;QtScriptd4.lib;QtSvgd4.lib;QtMultimediad4.lib;phonond4.lib;QtXmlPatternsd4.lib;QtOpenGLd4.lib;QAxServerd.lib;QAxContainerd.lib;Qt3Supportd4.lib;QtTestd4.lib;QtSqld4.lib;QtNetworkd4.lib;QtXmld4.lib;%(AdditionalDependencies)</AdditionalDependencies>
+        </Link>
+        <Link Condition="'$(Configuration)'=='Release'">
+          <AdditionalDependencies>qtmain.lib;QtCore4.lib;QtGui4.lib;QtDesigner;Components4.lib;QtDesigner4.lib;QtUiTools.lib;QtHelp4.lib;QtCLucene4.lib;QtScriptTools4.lib;QtWebKit4.lib;QtDeclarative4.lib;QtScript4.lib;QtSvg4.lib;QtMultimedia4.lib;phonon4.lib;QtXmlPatterns4.lib;QtOpenGL4.lib;QAxServer.lib;QAxContainer.lib;Qt3Support4.lib;QtTest4.lib;QtSql4.lib;QtNetwork4.lib;QtXml4.lib;%(AdditionalDependencies)</AdditionalDependencies>
+        </Link>
+  </ItemDefinitionGroup>
+
+</Project>

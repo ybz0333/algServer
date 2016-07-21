@@ -1,0 +1,17 @@
+﻿Build started 2016/4/28 17:51:22.
+     1>Project "E:\code_experiment\Cpp_code_experiment\qt_code1.1\try_tcpserver\Common\Common.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Common.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Lib:
+         All outputs are up-to-date.
+         Common.vcxproj -> E:\code_experiment\Cpp_code_experiment\qt_code1.1\try_tcpserver\Debug\Common.lib
+       FinalizeBuildStatus:
+         Deleting file "Debug\Common.unsuccessfulbuild".
+         Touching "Debug\Common.lastbuildstate".
+     1>Done Building Project "E:\code_experiment\Cpp_code_experiment\qt_code1.1\try_tcpserver\Common\Common.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.10

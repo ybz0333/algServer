@@ -1,0 +1,20 @@
+﻿Build started 2016/4/28 17:51:22.
+     1>Project "E:\code_experiment\Cpp_code_experiment\qt_code1.1\try_tcpserver\try_tcpserver.vcxproj" on node 2 (build target(s)).
+     1>C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(298,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+     1>InitializeBuildStatus:
+         Creating "Win32\Debug\try_tcpserver.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         All outputs are up-to-date.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         try_tcpserver.vcxproj -> E:\code_experiment\Cpp_code_experiment\qt_code1.1\try_tcpserver\debug\try_tcpserver.exe
+       FinalizeBuildStatus:
+         Deleting file "Win32\Debug\try_tcpserver.unsuccessfulbuild".
+         Touching "Win32\Debug\try_tcpserver.lastbuildstate".
+     1>Done Building Project "E:\code_experiment\Cpp_code_experiment\qt_code1.1\try_tcpserver\try_tcpserver.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.18
